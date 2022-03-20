@@ -16,3 +16,10 @@ Step 4: add database details in .env file
 Step 5: run command  php artisan migrate --seed
 
 Step 6: run command php artisan serve
+
+Step 8: Register New User or login to existing user to add/edit/delete Player Details and Game Details
+
+existing user detail
+
+email: test@test.com
+password: password
